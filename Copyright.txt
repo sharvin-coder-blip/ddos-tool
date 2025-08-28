@@ -1,0 +1,99 @@
+═══════════════════════════════════════════════════════════════
+                        COPYRIGHT NOTICE
+═══════════════════════════════════════════════════════════════
+
+Copyright © 2025 PAX  
+All rights reserved.  
+
+This software, including but not limited to source code, compiled
+executables, documentation, design, and all associated files
+(hereinafter referred to as the “Software”), is the intellectual
+property of the Author. It is protected under international
+copyright laws, conventions, and treaties.
+
+By accessing, installing, executing, or using this Software in any
+form, the user acknowledges, understands, and agrees to be legally
+bound by the following terms and conditions.
+
+═══════════════════════════════════════════════════════════════
+                          LICENSE TERMS
+═══════════════════════════════════════════════════════════════
+
+1. RIGHTS GRANTED
+   • The licensee is permitted to install, execute, and operate
+     this Software for personal, non-commercial, educational,
+     research, or authorized professional purposes only.  
+   • No ownership rights are transferred by possession or usage
+     of this Software. All rights remain with the Author.  
+
+2. RESTRICTIONS
+   • The following actions are STRICTLY PROHIBITED unless the
+     Author grants explicit, prior, written permission:
+       - Modification, translation, or adaptation of the Software.  
+       - Reverse engineering, decompilation, or disassembly.  
+       - Distribution, resale, rental, leasing, or lending.  
+       - Commercial use, directly or indirectly.  
+   • Any unauthorized activity may result in termination of this
+     license and may subject the violator to civil and criminal
+     penalties under applicable law.  
+
+3. REDISTRIBUTION
+   • Redistribution of this Software, in whole or in part, whether
+     original or modified, compiled or uncompiled, for profit or
+     non-profit, is strictly forbidden without written consent.  
+   • Unauthorized redistribution constitutes infringement and may
+     result in immediate legal action.  
+
+4. DISCLAIMER OF WARRANTY
+   • THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+     KIND, EXPRESS OR IMPLIED.  
+   • The Author makes NO WARRANTIES regarding merchantability,
+     fitness for a particular purpose, accuracy, or performance.  
+   • The entire risk arising from the use or performance of this
+     Software remains solely with the user.  
+
+5. LIMITATION OF LIABILITY
+   • Under no circumstances shall the Author be held liable for
+     any damages whatsoever (including but not limited to loss of
+     profits, data, business interruption, equipment damage, or
+     financial loss) arising out of the use or inability to use
+     the Software.  
+   • This limitation applies even if the Author has been advised
+     of the possibility of such damages.  
+
+6. COMPLIANCE WITH LAW
+   • The user is solely responsible for ensuring compliance with
+     all local, national, and international laws and regulations.  
+   • The Software is designed solely for **educational and research
+     purposes**. Any misuse of this Software for illegal, malicious,
+     or harmful activity is strictly forbidden.  
+   • The Author does not condone, endorse, or authorize illegal use.  
+
+7. TERMINATION
+   • This license is automatically terminated if the user violates
+     any of its terms or restrictions.  
+   • Upon termination, the user must immediately cease all use and
+     delete all copies of the Software from any system, storage
+     medium, or device in their possession.  
+
+8. GOVERNING LAW
+   • This License shall be governed and interpreted in accordance
+     with the laws of the Author’s jurisdiction.  
+   • Any disputes arising from this License shall be subject to the
+     exclusive jurisdiction of the courts of said jurisdiction.  
+
+═══════════════════════════════════════════════════════════════
+                      FINAL ACKNOWLEDGMENT
+═══════════════════════════════════════════════════════════════
+
+By using this Software, you confirm that you have read, understood,
+and agreed to abide by this License Agreement in its entirety.  
+If you do not agree with these terms, you must immediately cease
+all use and remove all copies of the Software.  
+
+Unauthorized use, reproduction, or distribution of this Software
+will be pursued to the fullest extent of applicable law.  
+
+═══════════════════════════════════════════════════════════════
+                          END OF LICENSE
+═══════════════════════════════════════════════════════════════
